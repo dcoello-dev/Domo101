@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+clase/bd.json
 # C extensions
 *.so
 
