@@ -1,0 +1,13 @@
+{
+    "component_name":"ControlRele",
+    "comm_iface": {
+        "host": "localhost",
+        "port": 1883,
+        "timeout": 60,
+        "subscribe": ["/Domo101/rele"]
+    },
+    "component_conf": {
+        "publicar": "/Domo101/control"
+    },
+    "monitor_topic": "/Mon"
+}
