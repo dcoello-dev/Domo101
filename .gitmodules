@@ -1,0 +1,3 @@
+[submodule "DomoRele/DMKernel"]
+	path = DomoRele/DMKernel
+	url = git@github.com:DMDistSys/DMKernel.git
